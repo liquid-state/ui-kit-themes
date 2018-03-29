@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Liquid State",
+  "author": {
+    "name": "Liquid State",
+    "email": "dev@liquid-state.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liquid-state/ui-kit-themes"
+  },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
